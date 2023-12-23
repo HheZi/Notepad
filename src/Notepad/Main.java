@@ -1,4 +1,4 @@
-package Snake;
+package Notepad;
 
 public class Main {
 
@@ -6,5 +6,5 @@ public class Main {
 		GUI gui = new GUI(850, 750);
 		gui.startProgram();
 	}
-
+	
 }

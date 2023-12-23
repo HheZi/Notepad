@@ -1,4 +1,4 @@
-package Snake;
+package Notepad;
 import java.awt.FileDialog;
 import java.io.BufferedReader;
 import java.io.FileReader;

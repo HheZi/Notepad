@@ -1,4 +1,4 @@
-package Snake;
+package Notepad;
 import javax.swing.undo.UndoManager;
 
 public class FunctionUndoRedo {

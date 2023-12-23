@@ -1,4 +1,4 @@
-package Snake;
+package Notepad;
 import java.awt.Font;
 
 import javax.swing.JTextArea;
